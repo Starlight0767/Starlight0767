@@ -6,7 +6,7 @@ Meu nome é Beatriz Emanuelle⚡
 
 -Estou me desenvolvendo na linguagem JavaScript. 🔭
 
--Utilizo esse espaço para compartilhar meus projtos desenvolvidos. 📫 
+-Utilizo esse espaço para compartilhar meus projetos desenvolvidos. 📫 
 
 ### Você pode entrar em contato comigo📧💬
 
